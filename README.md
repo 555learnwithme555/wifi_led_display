@@ -2,4 +2,4 @@
 Wi-Fi controlled LED Matrix Display
 
 More information:
-http://blog.heisice.com/1169650895
+http://blog.heisice.com/1169650896
